@@ -6,4 +6,6 @@ TEXTING RESPO
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=600&lines=Hello+World)
 
+![](https://komarev.com/ghpvc/?username=YOURNAME)
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
